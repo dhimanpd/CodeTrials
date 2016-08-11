@@ -1,0 +1,2 @@
+_moses = require 'moses'
+d
